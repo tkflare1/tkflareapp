@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 ## Video Walk‑through
 
-> 📽️ [Watch the demo on Loom](https://loom.com/share/your‑loom‑link‑here) – under 30 seconds.
+> 📽️ [Watch the demo on Loom](https://www.loom.com/share/a66435a0b31e43e3a2a165e2feec5e1b?sid=478b6c52-79a5-4eac-afc4-36874754c209) – under 30 seconds.
 
 ## App Brainstorming
 
